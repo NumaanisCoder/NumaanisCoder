@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Numaan Qureshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **MERN, Android, Machine Learning**
+- 🌱 I’m currently learning **React-Redux, Machine Learning, Data Structure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
