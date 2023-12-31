@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Numaan Qureshi</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **StudyMania Project**
+- 🔭 I’m currently working on **Relaxbyte.com Project**
 
-- 🌱 I’m currently learning **MERN, Android, Machine Learning**
+- 🌱 I’m currently learning **MERN, NextJs, Android, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
