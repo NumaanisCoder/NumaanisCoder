@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Numaan Qureshi</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Relaxbyte.com Project**
+- 🔭 I’m currently working on **Relaxbyte.com**
 
 - 🌱 I’m currently learning **MERN, NextJs, Android, Machine Learning**
 
