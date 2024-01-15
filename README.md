@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full stack developer here, diving into web, mobile, and desktop apps. Open for cool collaborations, especially in mobile and desktop app development. <br><br>Currently geeking out on the latest tech trends. Ask me about my software dev journey! <br><br> 🚀 Fun fact: I'm a video game enthusiast and football fanatic. Let's chat tech or games! 🎮⚽
+💻 Full stack developer here, diving into web, mobile, and desktop apps. <br><br>Open for cool collaborations, especially in mobile and desktop app development. <br><br>Currently geeking out on the latest tech trends. Ask me about my software dev journey! <br><br> 🚀 Fun fact: I'm a video game enthusiast and football fanatic. Let's chat tech or games! 🎮⚽
 
 
 ## 🌐 Socials:
