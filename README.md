@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full stack developer with a knack for web, mobile, and desktop apps. Open for exciting collaborations, especially in mobile and desktop app development. Currently diving deep into the latest tech trends. Ask me about my software dev journey! 🚀 Fun fact: I juggle between Cricket on the field and Chess indoors. Let's chat tech or games! 🏏🕹️
+💻 Full stack developer here, diving into web, mobile, and desktop apps. Open for cool collaborations, especially in mobile and desktop app development. <br><br>Currently geeking out on the latest tech trends. Ask me about my software dev journey! <br><br> 🚀 Fun fact: I'm a video game enthusiast and football fanatic. Let's chat tech or games! 🎮⚽
 
 
 ## 🌐 Socials:
